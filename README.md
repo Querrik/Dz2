@@ -9,4 +9,5 @@
 4. Вывести результаты расчетов.
 5. Конец
 
-![Uploading image.png…]()
+
+https://drive.google.com/file/d/1_91JgozI_plq8Wf5Dz3Lhqskay41D4-L/view?usp=sharing
